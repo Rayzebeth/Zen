@@ -81,6 +81,8 @@
     <Content Include="sale\templates\sale\about.html" />
     <Content Include="sale\templates\sale\home.html" />
     <Content Include="sale\templates\sale\base.html" />
+    <Content Include="sale\templates\sale\post_detail.html" />
+    <Content Include="sale\templates\sale\post_form.html" />
     <Content Include="users\templates\users\register.html" />
     <Content Include="users\templates\users\login.html" />
     <Content Include="users\templates\users\logout.html" />
