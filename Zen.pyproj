@@ -75,6 +75,9 @@
     <Folder Include="Zen\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="posts.json">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
     <Content Include="sale\static\sale\main.css" />
