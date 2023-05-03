@@ -88,6 +88,8 @@
     <Content Include="sale\templates\sale\post_form.html" />
     <Content Include="sale\templates\sale\post_confirm_delete.html" />
     <Content Include="sale\templates\sale\user_posts.html" />
+    <Content Include="users\templates\users\password_reset.html" />
+    <Content Include="users\templates\users\password_reset_done.html" />
     <Content Include="users\templates\users\register.html" />
     <Content Include="users\templates\users\login.html" />
     <Content Include="users\templates\users\logout.html" />
